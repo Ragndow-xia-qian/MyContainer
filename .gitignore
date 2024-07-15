@@ -1,0 +1,7 @@
+# directory
+/bin
+/cmake-build-debug
+
+# file
+/.gitignore
+/main.cpp
