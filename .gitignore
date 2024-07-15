@@ -2,6 +2,7 @@
 /bin
 /cmake-build-debug
 /.vscode
+/.idea
 
 # file
 /.gitignore
